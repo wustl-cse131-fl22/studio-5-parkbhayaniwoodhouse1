@@ -132,5 +132,11 @@ public class Methods {
 }
 	// TODO: Create a JavaDoc comment for the arrayMean method.
 
+	/**
+	 * Return a average value of an array in double
+	 * 
+	 * @param array
+	 * @return average value of an array 
+	 */
 	
 }
